@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <com.itheima.wheelpicker.WheelPicker
+    <com.hexingbo.wheelpicker.WheelPicker
         app:wheel_atmospheric="true"
         app:wheel_curved="true"
         app:wheel_cyclic="true"
